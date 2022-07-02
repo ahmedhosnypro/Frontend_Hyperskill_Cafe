@@ -324,6 +324,9 @@ files:
         await new CafeTest().runTests()
     }, 30000)
   learner_created: false
-feedback_link: https://hyperskill.org/projects/210/stages/1050/implement#comment
-status: Unchecked
+feedback_link: https://hyperskill.org/learn/step/15928#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 02 Jul 2022 13:05:15 UTC
 record: -1
